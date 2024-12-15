@@ -1,0 +1,9 @@
+streamlit
+imutils
+numpy
+pygame
+dlib-bin
+cmake
+opencv-python-headless
+pathlib
+streamlit-webrtc
